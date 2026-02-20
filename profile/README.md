@@ -1,4 +1,4 @@
-# nXsi — Nexus Intelligence
+# nXsi — Systems made smarter
 
 Open source automation workflows, homelab configs, developer tools, and the infrastructure behind [nxsi.io](https://nxsi.io).
 
